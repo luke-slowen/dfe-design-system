@@ -4,11 +4,6 @@
     "url": "get-started"
   },
   {
-    "label": "Styles",
-    "url": "styles",
-    "includeInSearch": true
-  },
-  {
     "label": "Components",
     "url": "components",
     "includeInSearch": true
