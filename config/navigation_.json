@@ -12,5 +12,9 @@
     "label": "Patterns",
     "url": "patterns",
     "includeInSearch": true
+  },
+  {
+    "label": "Community",
+    "url": "community"
   }
 ]
